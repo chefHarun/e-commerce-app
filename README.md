@@ -2,6 +2,7 @@
 
 Innovative style e-commerce site. You can follow the steps below for installation.<br/>
 
+
 > npm install
 <br/>
 Install npm module and then<br/>
